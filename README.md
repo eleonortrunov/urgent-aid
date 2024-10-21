@@ -1,2 +1,2 @@
 # urgent-aid
-This project is an emergency assistance alert application designed specifically for senior citizens.
+This project is an emergency assistance alert application designed specifically for senior citizens. The application provides real-time emergency alerts by sending notifications and live location information to designated contacts. The goal of this project is to offer an easy solution for caregivers who value the safety of their elderly loved ones by allowing them to track both their location and health through devices such as smartphones and wearable watches.
